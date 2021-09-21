@@ -1,0 +1,2 @@
+# Social-Media-Addiction-
+As we all know this pandemic is a crucial period. Social media is helping us into this. We all are so dependent on social media that we couldn't see anything above that now a days. Due to this pattern of our life we are becoming addicted to this. We students are taking initiative to analyze how social media is affecting our life and our loved ones too. How people are tending towards the addiction of social media.
