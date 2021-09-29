@@ -200,11 +200,11 @@ if Nv == "Prediction":
     d= le.fit_transform([d])
     e= le.fit_transform([e])
 
-    y_pred = model.predict([[G, A, E, O, a,b,c,d,e]])
+    #y_pred = model.predict([[G, A, E, O, a,b,c,d,e]])
     st.write("\n\n\n")
     if st.button("Predict"):
         st.subheader(f"\nPredictedion is:")
-        st.success(y_pred)
+        #st.success(y_pred)
 
 
 if Nv == "Contribute":
