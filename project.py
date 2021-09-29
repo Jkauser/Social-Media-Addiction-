@@ -19,6 +19,7 @@ st.title("Social Media Addiction")
 
 # Reading the dataset
 data= pd.read_csv("project.csv")
+data= data.drop('Timestamp', axis=1, inplace= True)
 
 # Replacing null values with Not prefer to say..
 data.fillna('Not prefer to say', inplace=True)
