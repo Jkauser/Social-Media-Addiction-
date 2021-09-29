@@ -19,7 +19,7 @@ import seaborn as sns
 st.title("Social Media Addiction")
 
 # Reading the dataset
-data= pd.read_csv('project.csv')
+data= pd.read_csv(r'project.csv')
 
 # Replacing null values with Not prefer to say..
 data.fillna('Not prefer to say', inplace=True)
